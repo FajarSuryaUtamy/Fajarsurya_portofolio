@@ -1,6 +1,6 @@
 // <!-- Typed js Effect -->
 var typed = new Typed('.typing-text', {
-  strings: ['Quality Control Engineer', 'Quantity Surveyor', 'Civil Engineer'],
+  strings: ['Structural Planning', 'Civil Engineer'],
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
